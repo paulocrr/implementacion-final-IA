@@ -1,4 +1,8 @@
 # Deteccion y clasificacion de armas usando una red neuronal VGG-16
+Integrantes <br>
+- <b> Manuel Alvarez </b>
+- <b> Renato Postigo </b>
+- <b> Paulo Rodriguez </b>
 <hr>
 La red neuronal esta en el archivo cnn.py, para hacer las pruebas se uso el archivo test.py <br>
 Se uso un dataset de  <b>1004 images</b> que se han clasificado en 3 grupos <br><br>
